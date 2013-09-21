@@ -1,0 +1,244 @@
+OEIL
+-250
+0
+65
+0
+0
+0
+0
+0
+0
+LAMPE
+FFFFFF	# Color
+0      	# X
+-50	# Y
+60	# Z
+0	# Rayon
+0	# X Rotation
+0	# Y Rotation
+0	# Z Rotation
+0	# Brillance
+0	# Transparence
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+LAMPE
+FFFFFF	# Color
+-150      	# X
+-100	# Y
+100	# Z
+0	# Rayon
+0	# X Rotation
+0	# Y Rotation
+0	# Z Rotation
+0	# Brillance
+0	# Transparence
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+LAMPE
+FFFFFF	# Color
+-150      	# X
+-50	# Y
+100	# Z
+0	# Rayon
+0	# X Rotation
+0	# Y Rotation
+0	# Z Rotation
+0	# Brillance
+0	# Transparence
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+LAMPE
+FFFFFF	# Color
+-150      	# X
+0	# Y
+100	# Z
+0	# Rayon
+0	# X Rotation
+0	# Y Rotation
+0	# Z Rotation
+0	# Brillance
+0	# Transparence
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+SPHERE
+E5B96F	# Color
+0      	# X
+0	# Y
+50	# Z
+30	# Rayon
+0	# X Rotation
+0	# Y Rotation
+0	# Z Rotation
+0	# Brillance
+0	# Transparence
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+PLAN
+736774
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
